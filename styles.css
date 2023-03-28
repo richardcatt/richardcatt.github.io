@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#candy-info {
+    margin-bottom: 20px;
+}
+
+#candy-image {
+    max-width: 100%;
+    height: auto;
+}
+
+#guess-form {
+    margin-bottom: 20px;
+}
